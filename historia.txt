@@ -1,5 +1,13 @@
 Yo soy Isaías Sepúlveda, tengo 22 años
 
 Nací en Chile y soy de Concepción
+<<<<<<< HEAD
 La gata blanca
 MASTER ONE
+=======
+Este es un nuevo cambio
+La gata blanca
+esto sería lo nuevo de ahora
+y la canela
+GATA UNOOO
+>>>>>>> gata
