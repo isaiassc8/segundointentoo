@@ -9,3 +9,4 @@ GATA UNOOO
 VEAMOS SI EL PULL FUNCIONA
 segundo intento de GIT y la llave que no entiendo mucho
 Quiero hacer un push a github
+ahora esto de va desde internet a mi git
